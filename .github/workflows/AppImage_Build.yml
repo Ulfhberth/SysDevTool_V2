@@ -65,7 +65,7 @@ jobs:
       # ── 6. create AppDir-structure ──────────────────────────────────
       - name: Create AppDir structure
         run: |
-          APP_NAME="MSysDevTool_V2"         
+          APP_NAME="SysDevTool_V2"         
           APP_ID="sysdevtool"           
 
           mkdir -p AppDir/usr/bin
